@@ -1,0 +1,25 @@
+<html>
+ <head>
+<itle> Assignment 3 . 2 | Inholland </title> 
+<meta charset="UTF-8">
+</head>
+<body>
+<nav>
+<a href="product.html" </a>
+<a href="service.html" </a>
+<a href="contact.html" </a>
+</nav>
+ <article><p>loren</p>
+<p>loren ipsum</p>
+<p>loren ipsum</p>
+<p>loren ipsum</p>
+<p>loren ipsum</p>
+<img src="Flower_11.jpg">
+</article>
+<aside><p>loren ipsum</p> </aside>
+<footer>&copy; 2001</footer>
+     
+	 </body>
+     </head>
+	 </html>
+
